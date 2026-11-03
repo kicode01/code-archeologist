@@ -1,0 +1,12 @@
+{
+  "name": "code-archeologist",
+  "version": "1.0.0",
+  "description": "Legacy decompilation, memory-safe WebAssembly sandboxer, and differential mutation fuzzer.",
+  "author": {
+    "name": "Kian",
+    "url": "https://github.com/kicode01"
+  },
+  "skills": [
+    "./"
+  ]
+}
